@@ -3,7 +3,7 @@
 <h1 align="center">Clinion website</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://" target="_blank">Clinion</a>.
 </div>
 
 <div align="center">
